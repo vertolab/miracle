@@ -11,29 +11,9 @@ Start by following the Fusion repository installation instructions, as described
 Then you should open the Indigo addon that was just installed, select "Addon Installer", navigate to "Program Addons", select "Next Page" at the bottom, then locate "Miracle" in the list. Install the Miracle addon and wait for the completion notification.
 
 ### Pair the Miracle Addon with the Miracle Skill
-Click Add-ons in the menu
+Highlight Add-ons in the menu, and click on the Miracle add-on
 
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_1.png "Add-ons in the menu")
-
-Click My add-ons
-
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_2.png "My add-ons in the menu")
-
-Click Program add-ons
-
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_3.png "Program add-ons in the menu")
-
-Click Miracle
-
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_4.png "Miracle add-on in the add-on list")
-
-Click Configure
-
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_5.png "Add-on configuration")
-
-Click Pair
-
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_6.png "Pair in the add-on configuration")
+![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_11.png "Miracle in the add-ons section")
 
 Now tell your Alexa-enabled device to enable the Miracle skill. If you're having problems with activating the skill via voice, go to your Alexa app and enable the skill through the app. Click OK when done.
 
