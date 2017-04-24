@@ -23,9 +23,7 @@ As the dialog instructs, ask the Miracle skill to pair with the code displayed i
 
 ![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_8.png "Pair dialog")
 
-When the skill tells you pairing was successful you can dismiss the dialog and click OK in the add-on configuration page.
-
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_9.png "Add-on configuration page")
+When the skill tells you pairing was successful you can dismiss the dialog and click OK.
 
 Congratulations, you can now control your Kodi without having to reach out to your remote, mouse or keyboard!
 
