@@ -51,7 +51,7 @@ msgid "Please check your internet connection and try again."
 msgstr ""
 
 msgctxt "#32026"
-msgid "Step 1 - Saying: "Alexa, enable Miracle skill""
+msgid "Step 1 - Saying: "Alexa, enable Miracle Kodi skill""
 msgstr ""
 
 msgctxt "#32027"
@@ -71,7 +71,7 @@ msgid "Would you like to pair again?"
 msgstr ""
 
 msgctxt "#32031"
-msgid "Please say: \"Alexa, enable Miracle skill\""
+msgid "Please say: \"Alexa, enable Miracle Kodi skill\""
 msgstr ""
 
 msgctxt "#32032"
@@ -83,7 +83,7 @@ msgid "Once Miracle skill is available, continue."
 msgstr ""
 
 msgctxt "#32034"
-msgid "Step 2 - Saying: \"Alexa, ask Miracle to pair with code %s %s\""
+msgid "Step 2 - Saying: \"Alexa, ask Miracle Kodi to pair with code %s %s\""
 msgstr ""
 
 msgctxt "#32035"
@@ -91,7 +91,7 @@ msgid "Once Miracle skill is available, continue."
 msgstr ""
 
 msgctxt "#32036"
-msgid "Please, say \"Alexa, ask Miracle to pair with code %s %s\""
+msgid "Please, say \"Alexa, ask Miracle Kodi to pair with code %s %s\""
 msgstr ""
 
 msgctxt "#32037"
