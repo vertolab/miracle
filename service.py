@@ -2,6 +2,7 @@ import os
 import sys
 
 import xbmc
+import xbmcgui
 
 from client import Client
 from conf import Conf, get_plugin_id, DATA_PATH
@@ -12,12 +13,17 @@ from utils import debug
 
 if __name__ == '__main__':
     debug('sys.argv = %s' % str(sys.argv))
+    if xbmcgui.Window(10000).getProperty(get_plugin_id() + '_running') == "True":
+        sys.exit()
+
     monitor = xbmc.Monitor()
 
     conf = Conf()
 
     client = Client(conf, action_map)
     client.connect_in_background()
+
+    xbmcgui.Window(10000).setProperty(get_plugin_id() + '_running', 'True')
 
     # pair_if_first_run(conf, client)
 
@@ -32,5 +38,7 @@ if __name__ == '__main__':
             break
 
     debug('Miracle service is aborting')
+
+    xbmcgui.Window(10000).setProperty(get_plugin_id() + '_running', 'False')
 
     client.shut_down()
