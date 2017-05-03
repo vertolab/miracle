@@ -70,7 +70,6 @@ This addon is intended to pair your Kodi with Alexa-enabled services such as Ama
 5. Select **Install**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/26.png)
 6. Wait few seconds for *Add-on installed* notification.
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/27.png)
 
 ### Pair Miracle Kodi Addon with Miracle Alexa Skill
 
@@ -80,17 +79,14 @@ This addon is intended to pair your Kodi with Alexa-enabled services such as Ama
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/29.png)
 3. Ask your Alexa-enabled device to enable the Miracle skill: **"Alexa, enable Miracle Kodi skill"**
     1. If you're having problems with activating the skill via voice, go to your Alexa app and enable the skill through the app.
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/30.png)
 4. Once the Miracle Alexa Skill is enabled, Select **OK**.
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/31.png)
+![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/30.png)
 5. Ask your Alexa-enabled device to pair with your Kodi: **"Alexa, ask Miracle Kodi to pair with code XXXX XXXX"** (replace XXXX XXXX with the code that appears in the dialog).
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/32.png)
+![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/31.png)
 6. Wait for Alexa notification of success.
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/33.png)
 7. Select **OK**
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/34.png)
+![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/32.png)
 8. Return **back**, then **back** again to the main screen
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/35.png)
 
 Congratulations, you can now control your Kodi without having to reach out to your remote, mouse or keyboard!
 
