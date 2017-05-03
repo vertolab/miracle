@@ -10,6 +10,14 @@ You only need Kodi and Alexa. That's it.
 
 ## Installation
 
+The installations steps are
+
+1. [Allow Unknown sources](#allow-unknown-sources) (if you havn't already)
+2. [Add Verto Lab source](#add-verto-lab-source) (http://kodi-repo.vertolab.com/)
+3. [Add Verto Lab Repo](#add-verto-lab-repo)
+4. [Install Miracle Add-on](#install-miracle-add-on)
+5. [Pair Miracle Kodi Addon with Miracle Alexa Skill](#pair-miracle-kodi-addon-with-miracle-alexa-skill)
+
 ### Allow Unknown sources
 
 1. Select **Add-ons**
