@@ -12,10 +12,10 @@ This addon is intended to pair your Kodi with Alexa-enabled services such as Ama
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/2.png)
 3. If *Unknown sources* is switched off
     1. Select **Unknown sources**
-    2. Select **Yes**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/3.png)
-4. Return **back**, then **back** again to the main screen
+    2. Select **Yes**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/4.png)
+4. Return **back**, then **back** again to the main screen
 
 ### Add Verto Lab source
 
@@ -25,7 +25,7 @@ This addon is intended to pair your Kodi with Alexa-enabled services such as Ama
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/6.png)
 3. Select **Add source**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/7.png)
-4. Select **<None>**
+4. Select **&lt;None>**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/8.png)
 5. Type **http://kodi-repo.vertolab.com/**, and select **OK**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/9.png)
