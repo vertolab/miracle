@@ -1,29 +1,63 @@
-# Kodi and Alexa integration
+# Miracle: Alexa control over Kodi
 
 This addon is intended to pair your Kodi with Alexa-enabled services such as Amazon Echo.
 
 ## Installation
 
-### Install the Miracle Alexa Addon from the Kodi repositories
+### Allow Unknown sources
 
-Start by following the Fusion repository installation instructions, as described in parts 1 through 3 of [their guide](https://www.tvaddons.ag/kodi-addons-dummies/) (no need to follow parts after part 3).
+1. Select **Add-ons**
+![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/1.png)
+2. Select the **Settings cogwheel**
+![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/2.png)
+3. If *Unknown sources* is switched off
+    1. Select **Unknown sources**
+    2. Select **Yes**
+4. Return **back**, then **back** again to the main screen
 
-Then you should open the Indigo addon that was just installed, select "Addon Installer", navigate to "Program Addons", select "Next Page" at the bottom, then locate "Miracle" in the list. Install the Miracle addon and wait for the completion notification.
+### Add Verto Lab source
 
-### Pair the Miracle Addon with the Miracle Skill
-Highlight Add-ons in the menu, and click on the Miracle add-on
+1. Select the **Settings cogwheel**
+2. Select **File manager**
+3. Select **Add source**
+4. Select **<None>**
+5. Type **http://kodi-repo.vertolab.com/**, and select **OK**
+6. Select the lower text box
+7. Type **Verto Lab**, and select **OK**
+8. Select **OK**
+9. Return **back**, then **back** again to the main screen
 
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_11.png "Miracle in the add-ons section")
+### Add Verto Lab Repo
 
-Now tell your Alexa-enabled device to enable the Miracle skill. If you're having problems with activating the skill via voice, go to your Alexa app and enable the skill through the app. Click OK when done.
+1. Select **Add-ons**
+2. Select the **Enter add-on browser**
+3. Select **Install from zip file**
+4. Select **Verto Lab**
+5. Select **Repository**
+6. Select **repository-vertolab-1.x.x**
+7. Select **repository-vertolab-1.x.x.zip**
+8. Wait few seconds for *Add-on installed* notification.
 
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_7.png "Skill installation dialog")
+### Install Miracle Add-on
 
-As the dialog instructs, ask the Miracle skill to pair with the code displayed in your dialog
+1. Select **Install from repository**
+2. Select **Verto Lab Repo**
+3. Select **Program add-ons**
+4. Select **Miracle**
+5. Select **Install**
+6. Wait few seconds for *Add-on installed* notification.
 
-![alt text](https://github.com/vertolab/miracle/blob/master/resources/guide_screenshot_8.png "Pair dialog")
+### Pair Miracle Kodi Addon with Miracle Alexa Skill
 
-When the skill tells you pairing was successful you can dismiss the dialog and click OK.
+1. Select **Miracle**
+2. Select **Run**
+3. Ask your Alexa-enabled device to enable the Miracle skill: **"Alexa, enable Miracle Kodi skill"**
+    1. If you're having problems with activating the skill via voice, go to your Alexa app and enable the skill through the app.
+4. Once the Miracle Alexa Skill is enabled, Select **OK**.
+5. Ask your Alexa-enabled device to pair with your Kodi: **"Alexa, ask Miracle Kodi to pair with code XXXX XXXX"** (replace XXXX XXXX with the code that appears in the dialog).
+6. Wait for Alexa notification of success.
+7. Select **OK**
+8. Return **back**, then **back** again to the main screen
 
 Congratulations, you can now control your Kodi without having to reach out to your remote, mouse or keyboard!
 
@@ -33,4 +67,6 @@ The addon uses an always-on, encrypted connection to a server which forwards req
 
 To reduce stress on server resources, most processing is done in the addon itself. This allows the community to overview the implementation and suggest improvements.
 
+### Developers
 Feel free to fork this repository, make changes and suggest them as improvements via pull requests.
+
