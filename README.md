@@ -3,7 +3,8 @@
 This addon is intended to control Kodi using Amazon Alexa.
 
 How is it different from other solutions?
-You only need Kodi and Alexa. That's it.
+
+You **only** need Kodi and Alexa. That's it.
 **No need for** Heroku / AWS or any of that.
 
 [![youtube video](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/youtube.png)](https://www.youtube.com/watch?v=dkAZSHDixFk)
@@ -95,6 +96,7 @@ The installations steps are
 4. Once the Miracle Alexa Skill is enabled, Select **OK**.
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/30.png)
 5. Ask your Alexa-enabled device to pair with your Kodi: **"Alexa, ask Miracle Kodi to pair with code XXXX XXXX"** (replace XXXX XXXX with the code that appears in the dialog).
+    1. Your pairing code should contain 8 digits. See the marked frame in the following screenshot:
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/31.png)
 6. Wait for Alexa notification of success.
 7. Select **OK**
