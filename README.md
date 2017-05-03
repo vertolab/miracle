@@ -32,11 +32,10 @@ This addon is intended to pair your Kodi with Alexa-enabled services such as Ama
 6. Select the lower text box
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/10.png)
 7. Type **Verto Lab**, and select **OK**
-![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/11.png)
-8. Select **OK**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/12.png)
-9. Return **back**, then **back** again to the main screen
+8. Select **OK**
 ![alt text](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/13.png)
+9. Return **back**, then **back** again to the main screen
 
 ### Add Verto Lab Repo
 
