@@ -1,6 +1,10 @@
 # Miracle: Alexa control over Kodi
 
-This addon is intended to pair your Kodi with Alexa-enabled services such as Amazon Echo.
+This addon is intended to control Kodi using Amazon Alexa.
+
+How is it different from other solutions?
+You only need Kodi and Alexa. That's it.
+**No need for** Heroku / AWS or any of that.
 
 [![youtube video](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/youtube.png)](https://www.youtube.com/watch?v=dkAZSHDixFk)
 
