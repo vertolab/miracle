@@ -98,3 +98,5 @@ To reduce stress on server resources, most processing is done in the addon itsel
 ### Developers
 Feel free to fork this repository, make changes and suggest them as improvements via pull requests.
 
+Credits to https://github.com/m0ngr31/kodi-alexa
+Some code in this repository is based on kodi-alexa.
