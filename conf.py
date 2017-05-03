@@ -3,6 +3,7 @@ import os
 import xbmc
 import xbmcplugin
 import xbmcaddon
+import xbmcgui
 import uuid
 import sys
 
@@ -76,14 +77,12 @@ class Conf(object):
 
     @property
     def repair_asked(self):
-        return os.path.exists(get_should_pair_file_path())
+        return xbmcgui.Window(10000).getProperty(get_plugin_id() + '_pair') == 'True'
 
     @staticmethod
     def close_repair_request():
-        os.unlink(get_should_pair_file_path())
+        xbmcgui.Window(10000).setProperty(get_plugin_id() + '_pair', 'False')
 
     @staticmethod
     def ask_repair():
-        fname = get_should_pair_file_path()
-        with open(fname, 'a'):
-            os.utime(fname, None)
+        xbmcgui.Window(10000).setProperty(get_plugin_id() + '_pair', 'True')
