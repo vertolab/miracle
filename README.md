@@ -1,3 +1,5 @@
+## [List of commands](commands.md)
+
 # Miracle: Alexa control over Kodi
 
 This addon is intended to control Kodi using Amazon Alexa.
@@ -105,11 +107,11 @@ Only 5 installation steps:
 
 That's it :) Now you can...
 
-### Give it a try!
+### [Give it a try!](commands.md)
 
  - *"Alexa ask Miracle Kodi to set volume to 5"*
  - *"Alexa ask Miracle Kodi to shuffle all music"*
- - And many more
+ - [And many more](commands.md)
 
 ## General Addon Comments
 
