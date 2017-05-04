@@ -9,7 +9,7 @@ can be used as
 to listen to all music by Bon Jovi available in the
 library.
 
-#Table of Contents
+# Table of Contents
 1. [Navigation](navigation)
 2. [Volume Control](volume-control)
 3. [Playback Control](playback-control)
