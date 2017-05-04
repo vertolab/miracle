@@ -1,4 +1,4 @@
-## [List of commands](commands.md)
+### [List of commands](commands.md)
 
 # Miracle: Alexa control over Kodi
 
