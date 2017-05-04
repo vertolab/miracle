@@ -1,317 +1,329 @@
 # Miracle Kodi Supported Commands
 Below is a list of commands supported by the
 Miracle Kodi skill. Words enclosed in braces are
- placeholders for names of Shows, Movies, Artists etc.
+placeholders for names of Shows, Movies, Artists etc.
  
- For example, the command "listen to artist {Artist}"
- can be used as
- "Alexa, ask Miracle Kodi to listen to artist Bon Jovi"
- to listen to all music by Bon Jovi available in the
- library. 
+For example, the command "listen to artist {Artist}"
+can be used as
+"Alexa, ask Miracle Kodi to listen to artist Bon Jovi"
+to listen to all music by Bon Jovi available in the
+library.
+
+#Table of Contents
+1. [Navigation](navigation)
+2. [Volume Control](volume-control)
+3. [Playback Control](playback-control)
+4. [Informational](informational)
+5. [TV Series Playback](tv-series-playback)
+6. [Music Playback](music-playback)
+7. [Movies Playback](movies-playback)
+8. [Addon Execution](addon-execution)
+9. [Subtitles](subtitles)
+10. [System Control](system-control)
 
 ## Navigation
-"go back"
+- "go back"
 
-"navigate back"
+- "navigate back"
 
-"go fullscreen"
+- "go fullscreen"
 
-"toggle fullscreen"
+- "toggle fullscreen"
 
-"navigate home"
+- "navigate home"
 
-"go home"
+- "go home"
 
-"go left"
+- "go left"
 
-"navigate left"
+- "navigate left"
 
-"go right"
+- "go right"
 
-"navigate right"
+- "navigate right"
 
-"go up"
+- "go up"
 
-"navigate up"
+- "navigate up"
 
-"down"
+- "down"
 
-"go down"
+- "go down"
 
-"navigate down"
+- "navigate down"
 
-"go page down"
+- "go page down"
 
-"navigate page down"
+- "navigate page down"
 
-"page down"
+- "page down"
 
-"go page up"
+- "go page up"
 
-"navigate page up"
+- "navigate page up"
 
-"page up"
+- "page up"
 
-"select"
+- "select"
 
-"open menu"
+- "open menu"
 
-"eject DVD"
+- "eject DVD"
 
-"eject CD"
+- "eject CD"
 
-"eject media"
+- "eject media"
 
-"eject disc"
+- "eject disc"
 
 ## Volume Control
-"mute"
+- "mute"
 
-"toggle mute"
+- "toggle mute"
 
-"toggle unmute"
+- "toggle unmute"
 
-"unmute"
+- "unmute"
 
-"down volume"
+- "down volume"
 
-"turn down volume"
+- "turn down volume"
 
-"volume down"
+- "volume down"
 
-"set volume {Volume}"
+- "set volume {Volume}"
 
-"volume {Volume}"
+- "volume {Volume}"
 
-"set volume {Volume} percent"
+- "set volume {Volume} percent"
 
-"set volume to {Volume} percent"
+- "set volume to {Volume} percent"
 
-"set volume at {Volume} percent"
+- "set volume at {Volume} percent"
 
-"volume {Volume} percent"
+- "volume {Volume} percent"
 
-"turn up volume"
+- "turn up volume"
 
-"turn volume up"
+- "turn volume up"
 
-"up volume"
+- "up volume"
 
-"volume up"
+- "volume up"
 
 ## Playback Control
-"big back jump"
+- "big back jump"
 
-"big step backward"
+- "big step backward"
 
-"big seek back"
+- "big seek back"
 
-"big forward jump"
+- "big forward jump"
 
-"big step forward"
+- "big step forward"
 
-"big seek forward"
+- "big seek forward"
 
-"back jump"
+- "back jump"
 
-"jump back"
+- "jump back"
 
-"seek back"
+- "seek back"
 
-"step forward"
+- "step forward"
 
-"jump forward"
+- "jump forward"
 
-"seek forward"
+- "seek forward"
 
-"pause"
+- "pause"
 
-"play"
+- "play"
 
-"resume"
+- "resume"
 
-"listen to previous"
+- "listen to previous"
 
-"play previous"
+- "play previous"
 
-"skip back"
+- "skip back"
 
-"play next"
+- "play next"
 
-"play next song"
+- "play next song"
 
-"skip this"
+- "skip this"
 
-"skip song"
+- "skip song"
 
-"start over"
+- "start over"
 
-"stop"
+- "stop"
 
-"stop playing"
+- "stop playing"
 
-"update library"
+- "update library"
 
-"Pair with code {FirstQuadruple} {SecondQuadruple}"
+- "Pair with code {FirstQuadruple} {SecondQuadruple}"
 
 ## Informational
-"what is currently playing"
+- "what is currently playing"
 
-"what is playing"
+- "what is playing"
 
-"what movie is currently playing"
+- "what movie is currently playing"
 
-"what movie is playing"
+- "what movie is playing"
 
-"what movie is this"
+- "what movie is this"
 
-"what show is currently playing"
+- "what show is currently playing"
 
-"what show is playing"
+- "what show is playing"
 
-"what song is playing"
+- "what song is playing"
 
-"what song is this"
+- "what song is this"
 
-"search for {Album}"
+- "search for {Album}"
 
-"search for {Artist}"
+- "search for {Artist}"
 
-"search for {Movie}"
+- "search for {Movie}"
 
-"search for {Show}"
+- "search for {Show}"
 
 ## TV Series Playback
-"if there are any episodes of {Show}"
+- "if there are any episodes of {Show}"
 
-"play season {Season} episode {Episode} of {Show}"
+- "play season {Season} episode {Episode} of {Show}"
 
-"watch season {Season} episode {Episode} of {Show}"
+- "watch season {Season} episode {Episode} of {Show}"
 
-"watch episode {Episode} season {Season} of {Show}"
+- "watch episode {Episode} season {Season} of {Show}"
 
-"play episode {Episode} season {Season} of {Show}"
+- "play episode {Episode} season {Season} of {Show}"
 
-"continue last show"
+- "continue last show"
 
-"play latest episode of {Show}"
+- "play latest episode of {Show}"
 
-"watch newest episode of {Show}"
+- "watch newest episode of {Show}"
 
-"play next episode of {Show}"
+- "play next episode of {Show}"
 
-"watch next episode of {Show}"
+- "watch next episode of {Show}"
 
-"are there any new shows"
+- "are there any new shows"
 
 ## Music Playback
-"listen to {Album} by {Artist}"
+- "listen to {Album} by {Artist}"
 
-"listen to {Song} by {Artist}"
+- "listen to {Song} by {Artist}"
 
-"play {Album} by {Artist}"
+- "play {Album} by {Artist}"
 
-"play {Song} by {Artist}"
+- "play {Song} by {Artist}"
 
-"play song {Song} by {Artist} "
+- "play song {Song} by {Artist} "
 
-"play song {Song} "
+- "play song {Song} "
 
-"listen to artist {Artist}"
+- "listen to artist {Artist}"
 
-"listen to music playlist {AudioPlaylist}"
+- "listen to music playlist {AudioPlaylist}"
 
-"listen to recent albums"
+- "listen to recent albums"
 
-"listen to all music"
+- "listen to all music"
 
-"listen to random music"
+- "listen to random music"
 
-"play all music"
+- "play all music"
 
-"play random music"
+- "play random music"
 
-"shuffle all music"
+- "shuffle all music"
 
-"shuffle playlist {AudioPlaylist}"
+- "shuffle playlist {AudioPlaylist}"
 
-"shuffle music playlist {AudioPlaylist}"
+- "shuffle music playlist {AudioPlaylist}"
 
-"what albums do i have by {Artist}"
+- "what albums do i have by {Artist}"
 
-"are there any new albums"
+- "are there any new albums"
 
-"what new albums I have"
+- "what new albums I have"
 
-"update music library"
+- "update music library"
 
 ## Movies Playback
 
-"shuffle playlist {VideoPlaylist}"
+- "shuffle playlist {VideoPlaylist}"
 
-"shuffle {VideoPlaylist} video playlist"
+- "shuffle {VideoPlaylist} video playlist"
 
-"play movie {Movie}"
+- "play movie {Movie}"
 
-"watch film {Movie}"
+- "watch film {Movie}"
 
-"are there any new {Genre} movies"
+- "are there any new {Genre} movies"
 
 ## Addon Execution
-"execute addon {Addon}"
+- "execute addon {Addon}"
 
-"execute plugin {Addon}"
+- "execute plugin {Addon}"
 
-"execute {Addon}"
+- "execute {Addon}"
 
-"open addon {Addon}"
+- "open addon {Addon}"
 
-"open plugin {Addon}"
+- "open plugin {Addon}"
 
-"run addon {Addon}"
+- "run addon {Addon}"
 
-"run plugin {Addon}"
+- "run plugin {Addon}"
 
-"run script {Addon}"
+- "run script {Addon}"
 
 ## Subtitles
-"next subtitle language"
+- "next subtitle language"
 
-"next subtitles"
+- "next subtitles"
 
-"switch subtitle language"
+- "switch subtitle language"
 
-"switch subtitles"
+- "switch subtitles"
 
-"disable subtitles"
+- "disable subtitles"
 
-"turn off subtitles"
+- "turn off subtitles"
 
-"enable subtitles"
+- "enable subtitles"
 
-"turn on subtitles"
+- "turn on subtitles"
 
 ## System Control
-"deep sleep"
+- "deep sleep"
 
-"deep sleep the system"
+- "deep sleep the system"
 
-"hibernate"
+- "hibernate"
 
-"hibernate system"
+- "hibernate system"
 
-"shut down"
+- "shut down"
 
-"shut down system"
+- "shut down system"
 
-"go to sleep"
+- "go to sleep"
 
-"put system to sleep"
+- "put system to sleep"
 
-"sleep"
+- "sleep"
 
-"sleep system"
+- "sleep system"
 
-"suspend"
+- "suspend"
 
-"suspend system"
+- "suspend system"
