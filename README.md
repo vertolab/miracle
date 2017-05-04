@@ -11,7 +11,7 @@ You **only** need Kodi and Alexa. That's it.
 
 ## Installation
 
-The installations steps are
+Only 5 installation steps:
 
 1. [Allow Unknown sources](#allow-unknown-sources) (if you havn't already)
 2. [Add Verto Lab source](#add-verto-lab-source) (http://kodi-repo.vertolab.com/)
@@ -101,9 +101,15 @@ The installations steps are
 6. Wait for Alexa notification of success.
 7. Select **OK**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/32.png)
-8. Return **back**, then **back** again to the main screen
+8. Say *"Alexa, ask Miracle Kodi to go home"* to return to the main screen
 
-Congratulations, you can now control your Kodi without having to reach out to your remote, mouse or keyboard!
+That's it :) Now you can...
+
+### Give it a try!
+
+ - *"Alexa ask Miracle Kodi to set volume to 5"*
+ - *"Alexa ask Miracle Kodi to shuffle all music"*
+ - And many more
 
 ## General Addon Comments
 

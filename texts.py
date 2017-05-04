@@ -44,5 +44,5 @@ def get_voice_pair_text(pair_code):
 def get_text_pair_text(pair_code):
     return dict(
         line1=_(32035),
-        line2=_(32036) % (pair_code[:4], pair_code[4:])
+        line2=_(32036) % ("\n\n[B][COLOR red]%s %s[/COLOR][/B]" % (pair_code[:4], pair_code[4:]))
     )
