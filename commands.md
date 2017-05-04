@@ -10,16 +10,16 @@ to listen to all music by Bon Jovi available in the
 library.
 
 # Table of Contents
-1. [Navigation](navigation)
-2. [Volume Control](volume-control)
-3. [Playback Control](playback-control)
-4. [Informational](informational)
-5. [TV Series Playback](tv-series-playback)
-6. [Music Playback](music-playback)
-7. [Movies Playback](movies-playback)
-8. [Addon Execution](addon-execution)
-9. [Subtitles](subtitles)
-10. [System Control](system-control)
+1. [Navigation](#navigation)
+2. [Volume Control](#volume-control)
+3. [Playback Control](#playback-control)
+4. [Informational](#informational)
+5. [TV Series Playback](#tv-series-playback)
+6. [Music Playback](#music-playback)
+7. [Movies Playback](#movies-playback)
+8. [Addon Execution](#addon-execution)
+9. [Subtitles](#subtitles)
+10. [System Control](#system-control)
 
 ## Navigation
 - "go back"
