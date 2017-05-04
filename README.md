@@ -101,14 +101,14 @@ Only 5 installation steps:
 6. Wait for Alexa notification of success.
 7. Select **OK**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/32.png)
-8. Return **back**, then **back** again to the main screen
+8. Say *"Alexa, ask Miracle Kodi to go home"* to return to the main screen
 
 That's it :) Now you can...
 
 ### Give it a try!
 
- - *"Alexa ask Miracle Control to set volume to 5"*
- - *"Alexa ask Miracle Control to shuffle all music"*
+ - *"Alexa ask Miracle Kodi to set volume to 5"*
+ - *"Alexa ask Miracle Kodi to shuffle all music"*
  - And many more
 
 ## General Addon Comments
