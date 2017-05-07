@@ -1,11 +1,11 @@
-# Miracle Kodi Supported Commands
+# Mira Cue Remote for Kodi Supported Commands
 Below is a list of commands supported by the
-Miracle Kodi skill. Words enclosed in braces are
+Mira Cue skill. Words enclosed in braces are
 placeholders for names of Shows, Movies, Artists etc.
  
 For example, the command "listen to artist {Artist}"
 can be used as
-"Alexa, ask Miracle Kodi to listen to artist Bon Jovi"
+"Alexa, ask Mira Cue to listen to artist Bon Jovi"
 to listen to all music by Bon Jovi available in the
 library.
 

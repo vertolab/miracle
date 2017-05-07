@@ -1,6 +1,6 @@
 # Kodi Media Center language file
-# Addon Name: Miracle
-# Addon id: script.service.miracle
+# Addon Name: Mira Cue
+# Addon id: script.service.miracue
 # Addon Provider: VertoLab
 msgid ""
 msgstr ""
@@ -25,7 +25,7 @@ msgid "Pair"
 msgstr ""
 
 msgctxt "#32020"
-msgid "Miracle - Kodi & Alexa pairing"
+msgid "Mira Cue - Kodi & Alexa pairing"
 msgstr ""
 
 msgctxt "#32021"
@@ -51,7 +51,7 @@ msgid "Please check your internet connection and try again."
 msgstr ""
 
 msgctxt "#32026"
-msgid "Step 1 - Saying: "Alexa, enable Miracle Kodi skill""
+msgid "Step 1 - Saying: \"Alexa, enable Mira Cue skill\""
 msgstr ""
 
 msgctxt "#32027"
@@ -71,27 +71,27 @@ msgid "Would you like to pair again?"
 msgstr ""
 
 msgctxt "#32031"
-msgid "Please say: \"Alexa, enable Miracle Kodi skill\""
+msgid "Please say: \"Alexa, enable Mira Cue skill\""
 msgstr ""
 
 msgctxt "#32032"
-msgid "Then, wait for Miracle skill to become available"
+msgid "Then, wait for Mira Cue skill to become available"
 msgstr ""
 
 msgctxt "#32033"
-msgid "Once Miracle skill is available, continue."
+msgid "Once Mira Cue skill is available, continue."
 msgstr ""
 
 msgctxt "#32034"
-msgid "Step 2 - Saying: \"Alexa, ask Miracle Kodi to pair with code %s %s\""
+msgid "Step 2 - Saying: \"Alexa, ask Mira Cue to pair with code %s %s\""
 msgstr ""
 
 msgctxt "#32035"
-msgid "Once Miracle skill is available, continue."
+msgid "Once Mira Cue skill is available, continue."
 msgstr ""
 
 msgctxt "#32036"
-msgid "Say \"Alexa, ask Miracle Kodi to pair with code %s\""
+msgid "Say \"Alexa, ask Mira Cue to pair with code %s\""
 msgstr ""
 
 msgctxt "#32037"

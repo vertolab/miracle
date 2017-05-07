@@ -1588,6 +1588,6 @@ def dispatch_handler(intent_req):
         xbmc.log('Response: %s' % output, level=xbmc.LOGNOTICE)
         icon = xbmc.translatePath(
             xbmcaddon.Addon().getAddonInfo('path') + '/resources/icon.png').decode('utf-8')
-        xbmc.executebuiltin("Notification(Miracle, %s, 3000, %s)" % (output.replace(',', ';'), icon))
+        xbmc.executebuiltin("Notification(Mira Cue, %s, 3000, %s)" % (output.replace(',', ';'), icon))
     except Exception as e:
         xbmc.log('Can\'t handle intent %s: %s' % (intent_req['intent']['name'], e), level=xbmc.LOGERROR)

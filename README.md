@@ -1,4 +1,4 @@
-# Miracle: Alexa control over Kodi
+# Mira Cue: Kodi control over Alexa
 
 This addon is intended to control Kodi using Amazon Alexa.
 
@@ -16,8 +16,8 @@ Only 5 installation steps:
 1. [Allow Unknown sources](#allow-unknown-sources) (if you havn't already)
 2. [Add Verto Lab source](#add-verto-lab-source) (http://kodi-repo.vertolab.com/)
 3. [Add Verto Lab Repo](#add-verto-lab-repo)
-4. [Install Miracle Add-on](#install-miracle-add-on)
-5. [Pair Miracle Kodi Addon with Miracle Alexa Skill](#pair-miracle-kodi-addon-with-miracle-alexa-skill)
+4. [Install Mira Cue Add-on](#install-mira-cue-add-on)
+5. [Pair Mira Cue Addon with Mira Cue Alexa Skill](#pair-mira-cue-kodi-addon-with-mira-cue-alexa-skill)
 
 ### Allow Unknown sources
 
@@ -71,7 +71,7 @@ Only 5 installation steps:
 8. Wait few seconds for *Add-on installed* notification.
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/21.png)
 
-### Install Miracle Add-on
+### Install Mira Cue Add-on
 
 1. Select **Install from repository**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/22.png)
@@ -79,36 +79,36 @@ Only 5 installation steps:
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/23.png)
 3. Select **Program add-ons**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/24.png)
-4. Select **Miracle**
+4. Select **Mira Cue**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/25.png)
 5. Select **Install**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/26.png)
 6. Wait few seconds for *Add-on installed* notification.
 
-### Pair Miracle Kodi Addon with Miracle Alexa Skill
+### Pair Mira Cue Kodi Addon with Mira Cue Alexa Skill
 
-1. Select **Miracle**
+1. Select **Mira Cue**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/28.png)
 2. Select **Run**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/29.png)
-3. Ask your Alexa-enabled device to enable the Miracle skill: **"Alexa, enable Miracle Kodi skill"**
+3. Ask your Alexa-enabled device to enable the Mira Cue skill: **"Alexa, enable Mira Cue skill"**
     1. If you're having problems with activating the skill via voice, go to your Alexa app and enable the skill through the app.
-4. Once the Miracle Alexa Skill is enabled, Select **OK**.
+4. Once the Mira Cue Alexa Skill is enabled, Select **OK**.
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/30.png)
-5. Ask your Alexa-enabled device to pair with your Kodi: **"Alexa, ask Miracle Kodi to pair with code XXXX XXXX"** (replace XXXX XXXX with the code that appears in the dialog).
+5. Ask your Alexa-enabled device to pair with your Kodi: **"Alexa, ask Mira Cue to pair with code XXXX XXXX"** (replace XXXX XXXX with the code that appears in the dialog).
     1. Your pairing code should contain 8 digits. See the marked frame in the following screenshot:
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/31.png)
 6. Wait for Alexa notification of success.
 7. Select **OK**
 ![image](https://raw.githubusercontent.com/vertolab/miracle/master/resources/guide_screenshots/32.png)
-8. Say *"Alexa, ask Miracle Kodi to go home"* to return to the main screen
+8. Say *"Alexa, ask Mira Cue to go home"* to return to the main screen
 
 That's it :) Now you can...
 
 ### Give it a try!
 
- - *"Alexa ask Miracle Kodi to set volume to 5"*
- - *"Alexa ask Miracle Kodi to shuffle all music"*
+ - *"Alexa ask Mira Cue to set volume to 5"*
+ - *"Alexa ask Mira Cue to shuffle all music"*
  - And many more
 
 ## General Addon Comments
