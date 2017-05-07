@@ -86,10 +86,6 @@ msgctxt "#32034"
 msgid "Step 2 - Saying: \n\n\"[B]Alexa, ask Miracle Kodi to pair with code %s %s[/B]\""
 msgstr ""
 
-msgctxt "#32035"
-msgid "Once Miracle skill is available, continue."
-msgstr ""
-
 msgctxt "#32036"
 msgid "Say:\n"[B]Alexa, ask Miracle Kodi to pair with code %s[/B]""
 msgstr ""
