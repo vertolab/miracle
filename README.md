@@ -1,3 +1,5 @@
+### [List of commands](commands.md)
+
 # Mira Cue: Kodi control over Alexa
 
 This addon is intended to control Kodi using Amazon Alexa.
@@ -105,11 +107,11 @@ Only 5 installation steps:
 
 That's it :) Now you can...
 
-### Give it a try!
+### [Give it a try!](commands.md)
 
  - *"Alexa ask Mira Cue to set volume to 5"*
  - *"Alexa ask Mira Cue to shuffle all music"*
- - And many more
+ - [And many more](commands.md)
 
 ## General Addon Comments
 

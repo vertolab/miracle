@@ -51,7 +51,7 @@ msgid "Please check your internet connection and try again."
 msgstr ""
 
 msgctxt "#32026"
-msgid "Step 1 - Saying: \"Alexa, enable Mira Cue skill\""
+msgid "Step 1 - Saying: \n\n\"[B]Alexa, enable Mira Cue skill\""
 msgstr ""
 
 msgctxt "#32027"
@@ -71,19 +71,19 @@ msgid "Would you like to pair again?"
 msgstr ""
 
 msgctxt "#32031"
-msgid "Please say: \"Alexa, enable Mira Cue skill\""
+msgid "say: "[B]Alexa, enable Mira Cue skill[/B]""
 msgstr ""
 
 msgctxt "#32032"
-msgid "Then, wait for Mira Cue skill to become available"
+msgid ""
 msgstr ""
 
 msgctxt "#32033"
-msgid "Once Mira Cue skill is available, continue."
+msgid "WAIT for skill to become available."
 msgstr ""
 
 msgctxt "#32034"
-msgid "Step 2 - Saying: \"Alexa, ask Mira Cue to pair with code %s %s\""
+msgid "Step 2 - Saying: \n\n\"[B]Alexa, ask Mira Cue to pair with code %s %s[/B]\""
 msgstr ""
 
 msgctxt "#32035"
@@ -91,7 +91,7 @@ msgid "Once Mira Cue skill is available, continue."
 msgstr ""
 
 msgctxt "#32036"
-msgid "Say \"Alexa, ask Mira Cue to pair with code %s\""
+msgid "Say:\n"[B]Alexa, ask Mira Cue to pair with code %s[/B]""
 msgstr ""
 
 msgctxt "#32037"
