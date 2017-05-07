@@ -70,10 +70,10 @@ def pair(client):
     return pair_code
 
 
-def pop_up_ok(text_dict):
+def pop_up_ok(text_dict, title=DEFAULT_DIALOG_TITLE):
     debug(text_dict)
     xbmcgui.Dialog().ok(
-        DEFAULT_DIALOG_TITLE, **text_dict)
+        title, **text_dict)
 
 
 def ask_user_if_repair():
