@@ -71,15 +71,15 @@ msgid "Would you like to pair again?"
 msgstr ""
 
 msgctxt "#32031"
-msgid "Say: \n\n\"[B]Alexa, enable Miracle Kodi skill[/B]\""
+msgid "say: "[B]Alexa, enable Miracle Kodi skill[/B]""
 msgstr ""
 
 msgctxt "#32032"
-msgid "Then, wait for Miracle skill to become available"
+msgid ""
 msgstr ""
 
 msgctxt "#32033"
-msgid "Once Miracle skill is available, continue."
+msgid "WAIT for skill to become available."
 msgstr ""
 
 msgctxt "#32034"
@@ -91,7 +91,7 @@ msgid "Once Miracle skill is available, continue."
 msgstr ""
 
 msgctxt "#32036"
-msgid "Say:\n"[B]Alexa, ask Miracle Kodi to pair with code %s[/B]\""
+msgid "Say:\n"[B]Alexa, ask Miracle Kodi to pair with code %s[/B]""
 msgstr ""
 
 msgctxt "#32037"
