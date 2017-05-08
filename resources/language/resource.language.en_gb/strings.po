@@ -55,7 +55,7 @@ msgid "Step 1 - Saying: \n\n\"[B]Alexa, enable Mira Cue skill\""
 msgstr ""
 
 msgctxt "#32027"
-msgid "Wait for Miracle skill to become available."
+msgid "Wait for Mira Cue skill to become available."
 msgstr ""
 
 msgctxt "#32028"
