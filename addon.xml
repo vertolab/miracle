@@ -7,7 +7,7 @@
 	<extension point="xbmc.service" library="service.py" start="login" />
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary lang="en">Miracle Alexa Controller</summary>
+		<summary lang="en">Mira Cue Kodi Alexa Controller</summary>
 		<description lang="en">Voice control your Kodi using Amazon Alexa enabled devices such as Echo. Support for Google Home might be added in the future.</description>
 		<license>GNU General Public License, v2</license>
 		<language>English</language>
