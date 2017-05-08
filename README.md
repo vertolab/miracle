@@ -47,9 +47,16 @@ Only 3 installation steps:
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_10.png)
 7. Select **script.service.miracue-1.0.1.zip**
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_11.png)
-8. Wait 1-2 minutes for *Add-on installed* notification.
+8. If asked about add-ons from unknown sources, click **Settings**. Otherwise skip to step 12.
+![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_17.png)
+9. Select **Unknown sources** to toggle it to the enabled state
+![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_18.png)
+10. Click **Yes**. The Mira Cue add-on does not collect any personal information and certainly does not send it anywhere.
+![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_19.png)
+11. Click **back** and repeat steps 3-7.
+12. Wait 1-2 minutes for *Add-on installed* notification.
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_12.png)
-9. Go **back** to the Add-ons screen and select Program add-ons 
+13. Go **back** to the Add-ons screen and select Program add-ons 
 ![image](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/screenshot_13.png)
 
 ### Pair Mira Cue Kodi Addon with Mira Cue Alexa Skill
