@@ -1,4 +1,4 @@
-### [List of commands](commands.md)
+### For advanced users: [List of commands](commands.md)
 
 # Mira Cue: Kodi control over Alexa
 
@@ -9,11 +9,11 @@ How is it different from other solutions?
 You **only** need Kodi and Alexa. That's it.
 **No need for** Heroku / AWS or any of that.
 
-[![youtube video](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/youtube.png)](https://www.youtube.com/watch?v=dkAZSHDixFk)
+[![youtube video](https://raw.githubusercontent.com/vertolab/kodi-create-repo/master/screenshots/youtube.png)](https://youtu.be/lhT2Eupi0Tc)
 
 ## Installation
 
-Only 5 installation steps:
+Only 3 installation steps:
 
 1. [Add Verto Lab source](#add-verto-lab-source) (http://kodi-repo.vertolab.com/)
 2. [Install Mira Cue Add-on](#install-mira-cue-add-on)
