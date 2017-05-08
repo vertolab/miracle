@@ -11,10 +11,14 @@ from utils import debug
 
 SETTING_KODI_ID = 'kodi_id'
 SETTING_IS_PAIRED = 'is_paired'
+KODI_ADDON_ID = ''
 
 
 def get_plugin_id():
-    return xbmcaddon.Addon().getAddonInfo('id')
+    global KODI_ADDON_ID
+    if not KODI_ADDON_ID:
+        KODI_ADDON_ID = xbmcaddon.Addon().getAddonInfo('id')
+    return KODI_ADDON_ID
 
 PLUGIN_ID = get_plugin_id()
 DATA_PATH = 'special://profile/addon_data/%s' % (PLUGIN_ID)
