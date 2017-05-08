@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.service.miracue" name="Miracle" version="1.0.1" provider-name="Verto Lab">
+<addon id="script.service.miracue" name="Mira Cue" version="1.0.1" provider-name="Verto Lab">
 	<requires>
 		<import addon="xbmc.python" version="2.14.0"/>
 	</requires>
