@@ -14,7 +14,10 @@ from utils import debug
 if __name__ == '__main__':
     debug('sys.argv = %s' % str(sys.argv))
     if xbmcgui.Window(10000).getProperty(get_plugin_id() + '_running') == "True":
+        debug('Service already running')
         sys.exit()
+    else:
+        debug('No other service is running - moving on')
 
     monitor = xbmc.Monitor()
 
