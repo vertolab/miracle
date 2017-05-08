@@ -1,4 +1,4 @@
-### For advanced users: [List of commands](commands.md)
+### Already have the add-on and just looking for the list of commands? [List of commands](commands.md)
 
 # Mira Cue: Kodi control over Alexa
 
